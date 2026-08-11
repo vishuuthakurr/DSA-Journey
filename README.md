@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0046-permutations) |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
