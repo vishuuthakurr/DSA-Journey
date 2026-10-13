@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vishuuthakurr/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
