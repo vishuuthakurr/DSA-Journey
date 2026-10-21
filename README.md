@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vishuuthakurr/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vishuuthakurr/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
